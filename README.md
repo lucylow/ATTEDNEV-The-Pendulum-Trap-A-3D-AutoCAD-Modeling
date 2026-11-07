@@ -1,7 +1,4 @@
-# ATTEDNEV-The-Pendulum-Trap-A-3D-AutoCAD-Modeling
-palindrome: 
-
-# Pendulum Dynamics Lab
+# A.T.T.E.D.N.E.V. — Angular Trajectory Tracking & Energy Dynamics Numerical Experiment Visualizer (The-Pendulum-Trap-A-3D-AutoCAD-Modeling)
 
 > **A browser-based 3D pendulum physics laboratory for simulation, numerical-method comparison, virtual event monitoring, and experiment data export.**
 >
