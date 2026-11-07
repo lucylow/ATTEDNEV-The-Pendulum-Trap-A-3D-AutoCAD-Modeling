@@ -12,6 +12,7 @@
 [![Tests](https://img.shields.io/badge/tests-12%20automated-279b74)](#automated-tests)
 [![License](https://img.shields.io/badge/license-add-your-license-lightgrey)](#license)
 
+![](https://github.com/lucylow/ATTEDNEV-The-Pendulum-Trap-A-3D-AutoCAD-Modeling/blob/main/Screenshot%20(1981).png?raw=true)
 ---
 
 ## Table of contents
