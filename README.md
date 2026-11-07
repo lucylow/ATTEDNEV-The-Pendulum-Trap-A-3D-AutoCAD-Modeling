@@ -37,7 +37,7 @@
 
 ## 1.1 What this project does
 
-Pendulum Dynamics Lab is an interactive engineering-style web application for exploring the motion of an idealized pendulum. The browser solves a nonlinear equation of motion, renders the result as a three-dimensional scene, records sampled state variables, evaluates configurable software events, and produces charts and experiment files.
+ATTEDNEV Pendulum Dynamics Lab is an interactive engineering-style web application for exploring the motion of an idealized pendulum. The browser solves a nonlinear equation of motion, renders the result as a three-dimensional scene, records sampled state variables, evaluates configurable software events, and produces charts and experiment files.
 
 The application combines five technical layers:
 
@@ -845,7 +845,7 @@ A study should run in its own numerical loop with explicit settings, produce a r
 
 # Limitations and responsible use
 
-Pendulum Dynamics Lab is an educational software model, not a physical design or certification tool. It does not include structural analysis, material properties, fatigue, joint stresses, bearing friction, aerodynamic drag, rod flexibility, pivot compliance, contact dynamics, impact mechanics, manufacturing tolerances, or validated actuator models. Its 3D frame is visual context only and must not be interpreted as a load-bearing design.
+ATTEDNEV Pendulum Dynamics Lab is an educational software model, not a physical design or certification tool. It does not include structural analysis, material properties, fatigue, joint stresses, bearing friction, aerodynamic drag, rod flexibility, pivot compliance, contact dynamics, impact mechanics, manufacturing tolerances, or validated actuator models. Its 3D frame is visual context only and must not be interpreted as a load-bearing design.
 
 All trigger events are browser-local simulation records. The virtual sinusoidal excitation is a prescribed term in the equation of motion. There are no hardware outputs, external control channels, electrical diagrams, or physical actuation features.
 
@@ -966,4 +966,4 @@ A good pull request should include:
 
 ---
 
-**Pendulum Dynamics Lab · Version 2.0.0 · Educational simulation only**
+**ATTEDNEV Pendulum Dynamics Lab · Version 2.0.0 · Educational simulation only**
