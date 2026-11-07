@@ -30,7 +30,6 @@
 12. [Repository map](#repository-map)
 13. [References and terminology](#references-and-terminology)
 
-> **Document length:** This is a long-form, approximately ten-page technical README when rendered with ordinary documentation typography. GitHub displays Markdown as a continuous page, so the actual page count depends on browser width, font size, and print settings. All diagrams below use Mermaid, which GitHub can render directly in Markdown files.
 
 ---
 
